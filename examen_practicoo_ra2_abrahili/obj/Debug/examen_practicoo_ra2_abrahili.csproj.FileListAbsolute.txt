@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\bin\Debug\examen_practicoo_ra2_abrahili.exe.config
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\bin\Debug\examen_practicoo_ra2_abrahili.exe
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\bin\Debug\examen_practicoo_ra2_abrahili.pdb
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\obj\Debug\examen_practicoo_ra2_abrahili.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\obj\Debug\examen_practicoo_ra2_abrahili.Form1.resources
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\obj\Debug\examen_practicoo_ra2_abrahili.Properties.Resources.resources
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\obj\Debug\examen_practicoo_ra2_abrahili.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\obj\Debug\examen_practicoo_ra2_abrahili.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\obj\Debug\examen_practicoo_ra2_abrahili.exe
+C:\Users\HP\source\repos\examen_practicoo_ra2_abrahili\examen_practicoo_ra2_abrahili\obj\Debug\examen_practicoo_ra2_abrahili.pdb
